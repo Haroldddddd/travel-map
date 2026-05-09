@@ -113,27 +113,5 @@
     "photos": [
       "2661d0e2-af2a-4799-9d18-f854b27070a6"
     ]
-  },
-  {
-    "id": "c6a5d438-f569-466a-9a8c-97415bf0e835",
-    "name": "Sorrento",
-    "country": "意大利;意大利",
-    "province": null,
-    "lat": 40.624906,
-    "lng": 14.374836,
-    "domestic": false,
-    "firstVisit": "2026-04-28",
-    "note": "阳光 海鸥 火山 情侣",
-    "color": "#b8d8f0",
-    "visits": [
-      {
-        "startDate": "2026-04-28",
-        "endDate": "2026-04-30",
-        "photoCount": 1
-      }
-    ],
-    "photos": [
-      "a496beb7-8071-4b6d-8e98-dd5ad748d9dc"
-    ]
   }
 ]
