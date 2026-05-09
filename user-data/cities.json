@@ -105,33 +105,5 @@
     "photos": [
       "2661d0e2-af2a-4799-9d18-f854b27070a6"
     ]
-  },
-  {
-    "id": "e1da5693-ea74-4bd9-8925-19f059135c0f",
-    "name": "Anacapri",
-    "country": "意大利;意大利",
-    "province": null,
-    "lat": 40.5488429,
-    "lng": 14.2283708,
-    "domestic": false,
-    "firstVisit": "2026-04-29",
-    "note": "和古罗马皇帝一样修养",
-    "color": "#e8e4db",
-    "visits": [
-      {
-        "startDate": "2026-04-29",
-        "endDate": "2026-04-29",
-        "photoCount": 1
-      },
-      {
-        "startDate": "2026-04-29",
-        "endDate": "2026-04-29",
-        "photoCount": 1
-      }
-    ],
-    "photos": [
-      "8dc268d1-aec8-4209-875a-b9f29a06697b",
-      "ad264c2d-af36-4ee8-a55c-02ab7d2ab9de"
-    ]
   }
 ]
