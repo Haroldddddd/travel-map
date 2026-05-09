@@ -122,10 +122,16 @@
         "startDate": "2026-04-29",
         "endDate": "2026-04-29",
         "photoCount": 1
+      },
+      {
+        "startDate": "2026-04-29",
+        "endDate": "2026-04-29",
+        "photoCount": 1
       }
     ],
     "photos": [
-      "8dc268d1-aec8-4209-875a-b9f29a06697b"
+      "8dc268d1-aec8-4209-875a-b9f29a06697b",
+      "ad264c2d-af36-4ee8-a55c-02ab7d2ab9de"
     ]
   }
 ]
