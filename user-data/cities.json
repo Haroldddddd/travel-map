@@ -76,7 +76,15 @@
         "startDate": "2026-05-09",
         "endDate": "2026-05-09",
         "photoCount": 3
+      },
+      {
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-28",
+        "photoCount": 1
       }
+    ],
+    "photos": [
+      "0eca3308-cc85-41ae-a264-872eca5ddb33"
     ]
   },
   {
