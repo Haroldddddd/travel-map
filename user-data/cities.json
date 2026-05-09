@@ -113,5 +113,27 @@
     "photos": [
       "2661d0e2-af2a-4799-9d18-f854b27070a6"
     ]
+  },
+  {
+    "id": "c5893218-37bc-4b25-a85b-8f1b50bca29e",
+    "name": "上海市",
+    "country": "中国",
+    "province": "上海市",
+    "lat": 31.2323437,
+    "lng": 121.4691024,
+    "domestic": true,
+    "firstVisit": "2025-02-09",
+    "note": "",
+    "color": "#b8d8f0",
+    "visits": [
+      {
+        "startDate": "2025-02-09",
+        "endDate": "2026-05-09",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "86a344e2-9344-490a-9e6a-c057c9918264"
+    ]
   }
 ]
