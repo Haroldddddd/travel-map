@@ -87,7 +87,7 @@
     "lat": 41.9034912,
     "lng": 12.4528349,
     "domestic": false,
-    "firstVisit": "2026-04-27",
+    "firstVisit": "2026-04-26",
     "note": "民众的血肉和崇高的信仰",
     "color": "#d8c8f0",
     "visits": [
@@ -95,7 +95,15 @@
         "startDate": "2026-04-27",
         "endDate": "2026-04-27",
         "photoCount": 1
+      },
+      {
+        "startDate": "2026-04-26",
+        "endDate": "2026-04-26",
+        "photoCount": 1
       }
+    ],
+    "photos": [
+      "2661d0e2-af2a-4799-9d18-f854b27070a6"
     ]
   },
   {
