@@ -1,0 +1,93 @@
+[
+  {
+    "id": "27ccd237-8da0-4fc2-bcf6-079a01073f45",
+    "name": "佛罗伦萨",
+    "country": "意大利;意大利",
+    "province": null,
+    "lat": 43.7697955,
+    "lng": 11.2556404,
+    "domestic": false,
+    "firstVisit": "2025-05-01",
+    "note": "美第奇和佛罗伦萨",
+    "color": "#b8d8f0",
+    "visits": [
+      {
+        "startDate": "2025-05-01",
+        "endDate": "2025-05-03",
+        "photoCount": 0
+      },
+      {
+        "startDate": "2025-05-01",
+        "endDate": "2025-05-03",
+        "photoCount": 0
+      },
+      {
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "photoCount": 1
+      }
+    ]
+  },
+  {
+    "id": "75843ce8-71f4-4514-8773-481078cfcdcd",
+    "name": "苏州市",
+    "country": "中国",
+    "province": "江苏省",
+    "lat": 31.311123,
+    "lng": 120.6212881,
+    "domestic": true,
+    "firstVisit": "2022-06-01",
+    "note": "故乡&水乡",
+    "color": "#c8e0e0",
+    "visits": [
+      {
+        "startDate": "2022-06-01",
+        "endDate": "2022-07-01",
+        "photoCount": 0
+      }
+    ]
+  },
+  {
+    "id": "aa7e795d-f196-4279-ae53-73444879c48f",
+    "name": "罗马",
+    "country": "意大利;意大利",
+    "province": null,
+    "lat": 41.8933203,
+    "lng": 12.4829321,
+    "domestic": false,
+    "firstVisit": "2025-04-25",
+    "note": "荣耀和变迁",
+    "color": "#e8e4db",
+    "visits": [
+      {
+        "startDate": "2025-04-25",
+        "endDate": "2025-04-28",
+        "photoCount": 0
+      },
+      {
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "photoCount": 3
+      }
+    ]
+  },
+  {
+    "id": "56e261eb-59dc-4f9b-8043-2d51eab8ee2c",
+    "name": "梵蒂冈",
+    "country": "梵蒂冈",
+    "province": null,
+    "lat": 41.9034912,
+    "lng": 12.4528349,
+    "domestic": false,
+    "firstVisit": "2026-04-27",
+    "note": "民众的血肉和崇高的信仰",
+    "color": "#d8c8f0",
+    "visits": [
+      {
+        "startDate": "2026-04-27",
+        "endDate": "2026-04-27",
+        "photoCount": 1
+      }
+    ]
+  }
+]
