@@ -915,5 +915,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "d71cd3ed-1164-4f67-8de3-2531a72963a4",
+    "name": "福州",
+    "country": "中国",
+    "province": null,
+    "lat": 26.074286,
+    "lng": 119.296411,
+    "domestic": true,
+    "firstVisit": "2016-04-01",
+    "note": "",
+    "color": "#d8c8f0",
+    "visits": [
+      {
+        "startDate": "2016-04-01",
+        "endDate": "2016-04-05",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
