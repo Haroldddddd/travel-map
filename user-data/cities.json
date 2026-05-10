@@ -975,5 +975,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "a703bae8-662c-4da6-b300-5d520463537b",
+    "name": "中山",
+    "country": "中国",
+    "province": null,
+    "lat": 38.918357,
+    "lng": 121.644996,
+    "domestic": true,
+    "firstVisit": "2024-08-03",
+    "note": "",
+    "color": "#d8c8f0",
+    "visits": [
+      {
+        "startDate": "2024-08-03",
+        "endDate": "2024-08-10",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
