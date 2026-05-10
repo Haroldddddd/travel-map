@@ -294,5 +294,27 @@
     "photos": [
       "fd2a5a60-df3e-47a6-9602-f3b8c9b4a2c8"
     ]
+  },
+  {
+    "id": "89ad2699-bf6e-4d12-bbbd-ae899945ab22",
+    "name": "南昌",
+    "country": "中国",
+    "province": null,
+    "lat": 28.682976,
+    "lng": 115.857972,
+    "domestic": true,
+    "firstVisit": "2026-04-05",
+    "note": "",
+    "color": "#c9e6c6",
+    "visits": [
+      {
+        "startDate": "2026-04-05",
+        "endDate": "2026-04-06",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "271a4399-bcee-4182-a4ad-7f6ecc2bcc78"
+    ]
   }
 ]
