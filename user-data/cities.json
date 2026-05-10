@@ -1015,5 +1015,27 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "b058849e-f613-4d70-bf2c-b7db1747ba1b",
+    "name": "景德镇",
+    "country": "中国",
+    "province": null,
+    "lat": 29.2744,
+    "lng": 117.184892,
+    "domestic": true,
+    "firstVisit": "2026-04-06",
+    "note": "",
+    "color": "#b8d8f0",
+    "visits": [
+      {
+        "startDate": "2026-04-06",
+        "endDate": "2026-04-08",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "8a538b80-c380-4f84-9111-2e2ec2fd6495"
+    ]
   }
 ]
