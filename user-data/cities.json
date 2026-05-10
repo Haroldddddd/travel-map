@@ -1297,5 +1297,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "7c5b9567-248a-492a-b0f2-08e5943ee2a9",
+    "name": "Zermatt",
+    "country": "瑞士",
+    "province": null,
+    "lat": 46.0212076,
+    "lng": 7.749254,
+    "domestic": false,
+    "firstVisit": "2025-10-05",
+    "note": "",
+    "color": "#d8c8f0",
+    "visits": [
+      {
+        "startDate": "2025-10-05",
+        "endDate": "2025-10-06",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
