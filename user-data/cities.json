@@ -758,5 +758,27 @@
     "photos": [
       "8f5f9d08-781f-487a-9218-ffd49399be6e"
     ]
+  },
+  {
+    "id": "1d48471d-ae0c-4cae-b630-75c39d49e527",
+    "name": "常州",
+    "country": "中国",
+    "province": null,
+    "lat": 31.811313,
+    "lng": 119.974092,
+    "domestic": true,
+    "firstVisit": "2025-08-02",
+    "note": "",
+    "color": "#c9e6c6",
+    "visits": [
+      {
+        "startDate": "2025-08-02",
+        "endDate": "2025-08-02",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "c43798f6-50cd-48dd-9763-94f07b514a44"
+    ]
   }
 ]
