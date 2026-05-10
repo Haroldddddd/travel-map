@@ -833,7 +833,7 @@
     "lat": 30.894178,
     "lng": 120.086881,
     "domestic": true,
-    "firstVisit": "2025-08-24",
+    "firstVisit": "2025-05-01",
     "note": "",
     "color": "#c8e0e0",
     "visits": [
@@ -841,6 +841,11 @@
         "startDate": "2025-08-24",
         "endDate": "2025-08-24",
         "photoCount": 1
+      },
+      {
+        "startDate": "2025-05-01",
+        "endDate": "2025-05-05",
+        "photoCount": 0
       }
     ],
     "photos": [
