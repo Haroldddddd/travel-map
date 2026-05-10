@@ -206,5 +206,27 @@
     "photos": [
       "f145bb93-7862-484e-a5b8-79f1ce5b5890"
     ]
+  },
+  {
+    "id": "48ff388b-1a6d-4a00-9eca-b3c7efe4d4fe",
+    "name": "桂林",
+    "country": "中国",
+    "province": null,
+    "lat": 25.235615,
+    "lng": 110.179752,
+    "domestic": true,
+    "firstVisit": "2025-09-10",
+    "note": "",
+    "color": "#f9c0c0",
+    "visits": [
+      {
+        "startDate": "2025-09-10",
+        "endDate": "2025-09-10",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "30a9381b-bf49-4bab-9680-c692d372c023"
+    ]
   }
 ]
