@@ -566,5 +566,27 @@
     "photos": [
       "6ad2fe41-52e8-490e-b4a5-afe145f7eb37"
     ]
+  },
+  {
+    "id": "a383d50f-c2e8-4c02-b07f-2350fa749bcb",
+    "name": "长沙",
+    "country": "中国",
+    "province": null,
+    "lat": 28.228304,
+    "lng": 112.938882,
+    "domestic": true,
+    "firstVisit": "2022-05-10",
+    "note": "",
+    "color": "#d8c8f0",
+    "visits": [
+      {
+        "startDate": "2022-05-10",
+        "endDate": "2022-05-10",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "2087897b-cfe3-41b8-8dfb-99cfff36181e"
+    ]
   }
 ]
