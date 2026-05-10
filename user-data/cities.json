@@ -995,5 +995,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "e47ab731-639a-4ef9-a1b1-9b71dbcede23",
+    "name": "惠州",
+    "country": "中国",
+    "province": null,
+    "lat": 23.112368,
+    "lng": 114.415587,
+    "domestic": true,
+    "firstVisit": "2024-04-04",
+    "note": "",
+    "color": "#f9e0b0",
+    "visits": [
+      {
+        "startDate": "2024-04-04",
+        "endDate": "2024-04-05",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
