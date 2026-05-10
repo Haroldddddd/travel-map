@@ -1377,5 +1377,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "c5e0f8e3-75cd-4930-83e8-06fdaa7f9f4d",
+    "name": "Spiez",
+    "country": "瑞士",
+    "province": null,
+    "lat": 46.6919473,
+    "lng": 7.6774655,
+    "domestic": false,
+    "firstVisit": "2025-10-03",
+    "note": "",
+    "color": "#c9e6c6",
+    "visits": [
+      {
+        "startDate": "2025-10-03",
+        "endDate": "2025-10-05",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
