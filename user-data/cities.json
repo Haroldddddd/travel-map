@@ -1337,5 +1337,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "f9b2c5e3-04da-470b-8229-aa33a2c50d4a",
+    "name": "米蘭",
+    "country": "意大利;意大利",
+    "province": null,
+    "lat": 45.4641943,
+    "lng": 9.1896346,
+    "domestic": false,
+    "firstVisit": "2026-05-03",
+    "note": "",
+    "color": "#f9c0c0",
+    "visits": [
+      {
+        "startDate": "2026-05-03",
+        "endDate": "2026-05-03",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
