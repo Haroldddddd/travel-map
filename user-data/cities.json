@@ -1057,5 +1057,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "4170aef0-d2b0-452d-9e05-885061ad0dbb",
+    "name": "宣城",
+    "country": "中国",
+    "province": null,
+    "lat": 30.939278,
+    "lng": 118.759127,
+    "domestic": true,
+    "firstVisit": "2025-08-24",
+    "note": "",
+    "color": "#d8c8f0",
+    "visits": [
+      {
+        "startDate": "2025-08-24",
+        "endDate": "2025-08-24",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
