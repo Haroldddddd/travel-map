@@ -692,5 +692,27 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "fab87f59-eec1-4468-b961-e6ccf05270f2",
+    "name": "扬州",
+    "country": "中国",
+    "province": null,
+    "lat": 32.394404,
+    "lng": 119.412834,
+    "domestic": true,
+    "firstVisit": "2025-08-02",
+    "note": "",
+    "color": "#c8e0e0",
+    "visits": [
+      {
+        "startDate": "2025-08-02",
+        "endDate": "2025-08-02",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "0ed66a5a-cd29-497b-9bd2-cfc30779ceec"
+    ]
   }
 ]
