@@ -426,5 +426,27 @@
     "photos": [
       "69bc768f-41d0-4dd9-8ec1-a66bafb8a726"
     ]
+  },
+  {
+    "id": "0bed4e95-291a-49cc-b364-79d9fa46d2cb",
+    "name": "珠海",
+    "country": "中国",
+    "province": null,
+    "lat": 22.271644,
+    "lng": 113.576892,
+    "domestic": true,
+    "firstVisit": "2024-09-21",
+    "note": "",
+    "color": "#e8e4db",
+    "visits": [
+      {
+        "startDate": "2024-09-21",
+        "endDate": "2024-09-21",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "6e3a9083-671a-4549-9c5e-af4605d2d640"
+    ]
   }
 ]
