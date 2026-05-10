@@ -478,5 +478,27 @@
     "photos": [
       "eef19a68-3e6a-4035-8c45-df85bc6d4340"
     ]
+  },
+  {
+    "id": "0efc9f93-b385-4afe-99de-ebd05e226a02",
+    "name": "厦门",
+    "country": "中国",
+    "province": null,
+    "lat": 24.479627,
+    "lng": 118.08891,
+    "domestic": true,
+    "firstVisit": "2023-05-10",
+    "note": "",
+    "color": "#f9c0c0",
+    "visits": [
+      {
+        "startDate": "2023-05-10",
+        "endDate": "2023-05-10",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "4eaede1c-7626-4916-8ee8-c5497bceba5f"
+    ]
   }
 ]
