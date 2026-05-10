@@ -824,5 +824,27 @@
     "photos": [
       "0d6f7f3a-050e-4e8a-ab69-8fc7c1a3a3ff"
     ]
+  },
+  {
+    "id": "2ea89b5b-ea79-440f-9310-9bf958275700",
+    "name": "湖州",
+    "country": "中国",
+    "province": null,
+    "lat": 30.894178,
+    "lng": 120.086881,
+    "domestic": true,
+    "firstVisit": "2025-08-24",
+    "note": "",
+    "color": "#c8e0e0",
+    "visits": [
+      {
+        "startDate": "2025-08-24",
+        "endDate": "2025-08-24",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "df8ae023-9446-4891-a055-d4e12e73fa50"
+    ]
   }
 ]
