@@ -1257,5 +1257,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "56fa2309-40f6-44db-aada-b255e7476ebf",
+    "name": "因特拉肯",
+    "country": "瑞士",
+    "province": null,
+    "lat": 46.6855231,
+    "lng": 7.8585139,
+    "domestic": false,
+    "firstVisit": "2025-10-03",
+    "note": "",
+    "color": "#e8e4db",
+    "visits": [
+      {
+        "startDate": "2025-10-03",
+        "endDate": "2025-10-06",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
