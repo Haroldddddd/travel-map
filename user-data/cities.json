@@ -780,5 +780,27 @@
     "photos": [
       "c43798f6-50cd-48dd-9763-94f07b514a44"
     ]
+  },
+  {
+    "id": "d2f4db81-5457-4d52-8638-57d8a6012806",
+    "name": "嘉兴",
+    "country": "中国",
+    "province": null,
+    "lat": 30.746814,
+    "lng": 120.755623,
+    "domestic": true,
+    "firstVisit": "2025-09-01",
+    "note": "",
+    "color": "#c8e0e0",
+    "visits": [
+      {
+        "startDate": "2025-09-01",
+        "endDate": "2025-09-01",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "2dce3340-9be2-423b-9ccd-d0781e6c70b8"
+    ]
   }
 ]
