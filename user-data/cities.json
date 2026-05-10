@@ -608,5 +608,27 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "3c1c3825-1e7b-4841-a106-7b78ec7bc34b",
+    "name": "北京",
+    "country": "中国",
+    "province": null,
+    "lat": 39.904179,
+    "lng": 116.407387,
+    "domestic": true,
+    "firstVisit": "2022-05-10",
+    "note": "",
+    "color": "#b8d8f0",
+    "visits": [
+      {
+        "startDate": "2022-05-10",
+        "endDate": "2022-05-10",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "ffae4eb9-4df6-4c33-80b7-7b17bbdec0ba"
+    ]
   }
 ]
