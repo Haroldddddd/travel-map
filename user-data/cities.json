@@ -448,5 +448,27 @@
     "photos": [
       "6e3a9083-671a-4549-9c5e-af4605d2d640"
     ]
+  },
+  {
+    "id": "4f6719e4-1255-4fe9-8183-fcce05c517ad",
+    "name": "广州",
+    "country": "中国",
+    "province": null,
+    "lat": 23.130061,
+    "lng": 113.264499,
+    "domestic": true,
+    "firstVisit": "2024-09-19",
+    "note": "",
+    "color": "#c9e6c6",
+    "visits": [
+      {
+        "startDate": "2024-09-19",
+        "endDate": "2024-09-19",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "eef19a68-3e6a-4035-8c45-df85bc6d4340"
+    ]
   }
 ]
