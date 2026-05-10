@@ -113,5 +113,27 @@
     "photos": [
       "2661d0e2-af2a-4799-9d18-f854b27070a6"
     ]
+  },
+  {
+    "id": "e2b17ad1-f5ab-4818-b6a5-302545de11a5",
+    "name": "郑州市",
+    "country": "中国",
+    "province": "河南省",
+    "lat": 34.7472531,
+    "lng": 113.619321,
+    "domestic": true,
+    "firstVisit": "2026-05-10",
+    "note": "",
+    "color": "#f9c0c0",
+    "visits": [
+      {
+        "startDate": "2026-05-10",
+        "endDate": "2026-05-10",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "a518aaac-ea96-41a9-be35-375af407f0f0"
+    ]
   }
 ]
