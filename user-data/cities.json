@@ -955,5 +955,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "6bee2285-6d47-4215-bed1-b9914a0f92d0",
+    "name": "昆明",
+    "country": "中国",
+    "province": null,
+    "lat": 24.88149,
+    "lng": 102.833669,
+    "domestic": true,
+    "firstVisit": "2025-05-01",
+    "note": "",
+    "color": "#f0c8d8",
+    "visits": [
+      {
+        "startDate": "2025-05-01",
+        "endDate": "2025-05-01",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
