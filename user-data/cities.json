@@ -382,5 +382,27 @@
     "photos": [
       "dacadf24-6052-402b-b054-143daaef502f"
     ]
+  },
+  {
+    "id": "8c7df8ad-e9c5-4d45-a973-bf4aa76f0f68",
+    "name": "九寨沟",
+    "country": "中国",
+    "province": null,
+    "lat": 33.252008,
+    "lng": 104.2426,
+    "domestic": true,
+    "firstVisit": "2024-12-01",
+    "note": "",
+    "color": "#c9e6c6",
+    "visits": [
+      {
+        "startDate": "2024-12-01",
+        "endDate": "2024-12-02",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "4e635d10-f439-4980-b5be-e888b058916e"
+    ]
   }
 ]
