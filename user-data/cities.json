@@ -1277,5 +1277,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "03d0fc62-861f-49dc-87ac-a24b45ae7867",
+    "name": "日內瓦",
+    "country": "瑞士",
+    "province": null,
+    "lat": 46.2017559,
+    "lng": 6.1466014,
+    "domestic": false,
+    "firstVisit": "2025-10-07",
+    "note": "",
+    "color": "#f9e0b0",
+    "visits": [
+      {
+        "startDate": "2025-10-07",
+        "endDate": "2025-10-07",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
