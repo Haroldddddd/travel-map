@@ -272,5 +272,27 @@
     "photos": [
       "cd107a23-4d83-4661-9c75-e8122802baa8"
     ]
+  },
+  {
+    "id": "fe0fe157-7287-4257-b15a-838345c064ca",
+    "name": "武汉",
+    "country": "中国",
+    "province": null,
+    "lat": 30.593354,
+    "lng": 114.304569,
+    "domestic": true,
+    "firstVisit": "2025-12-06",
+    "note": "",
+    "color": "#c9e6c6",
+    "visits": [
+      {
+        "startDate": "2025-12-06",
+        "endDate": "2025-12-09",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "fd2a5a60-df3e-47a6-9602-f3b8c9b4a2c8"
+    ]
   }
 ]
