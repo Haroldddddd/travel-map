@@ -714,5 +714,27 @@
     "photos": [
       "0ed66a5a-cd29-497b-9bd2-cfc30779ceec"
     ]
+  },
+  {
+    "id": "c0654265-9942-48ff-8ca5-1706ee9008d4",
+    "name": "池州",
+    "country": "中国",
+    "province": null,
+    "lat": 30.674264,
+    "lng": 117.495663,
+    "domestic": true,
+    "firstVisit": "2025-08-24",
+    "note": "",
+    "color": "#f9c0c0",
+    "visits": [
+      {
+        "startDate": "2025-08-24",
+        "endDate": "2025-08-24",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "95272089-71cd-422e-8d05-556f844ce655"
+    ]
   }
 ]
