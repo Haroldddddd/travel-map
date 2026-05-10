@@ -935,5 +935,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "042f412d-c8e6-4c2a-90ad-e4a6ed8e5984",
+    "name": "重庆",
+    "country": "中国",
+    "province": null,
+    "lat": 29.56268,
+    "lng": 106.551787,
+    "domestic": true,
+    "firstVisit": "2023-06-02",
+    "note": "",
+    "color": "#d8c8f0",
+    "visits": [
+      {
+        "startDate": "2023-06-02",
+        "endDate": "2023-06-06",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
