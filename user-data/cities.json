@@ -1037,5 +1037,25 @@
     "photos": [
       "8a538b80-c380-4f84-9111-2e2ec2fd6495"
     ]
+  },
+  {
+    "id": "ee7b4421-ca97-4b26-b710-5c77b5a8fab8",
+    "name": "南京",
+    "country": "中国",
+    "province": null,
+    "lat": 32.059344,
+    "lng": 118.796624,
+    "domestic": true,
+    "firstVisit": "2024-02-02",
+    "note": "",
+    "color": "#e8e4db",
+    "visits": [
+      {
+        "startDate": "2024-02-02",
+        "endDate": "2024-02-02",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
