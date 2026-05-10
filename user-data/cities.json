@@ -1197,5 +1197,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "dd937164-6163-4c74-afa6-0e3721b8b6aa",
+    "name": "曼谷",
+    "country": "泰国;泰國",
+    "province": null,
+    "lat": 13.7524938,
+    "lng": 100.4935089,
+    "domestic": false,
+    "firstVisit": "2016-04-05",
+    "note": "",
+    "color": "#d8c8f0",
+    "visits": [
+      {
+        "startDate": "2016-04-05",
+        "endDate": "2016-04-09",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
