@@ -250,5 +250,27 @@
     "photos": [
       "3b679653-73c1-46ea-a8e6-1d9f13fde396"
     ]
+  },
+  {
+    "id": "2bf2af33-a138-426c-88a2-e588fd5a4436",
+    "name": "无锡",
+    "country": "中国",
+    "province": null,
+    "lat": 31.491064,
+    "lng": 120.311889,
+    "domestic": true,
+    "firstVisit": "2025-12-10",
+    "note": "",
+    "color": "#e8e4db",
+    "visits": [
+      {
+        "startDate": "2025-12-10",
+        "endDate": "2025-12-10",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "cd107a23-4d83-4661-9c75-e8122802baa8"
+    ]
   }
 ]
