@@ -868,5 +868,27 @@
     "photos": [
       "78bc5f70-130e-402c-9a34-922494a0b549"
     ]
+  },
+  {
+    "id": "c6ca4adf-5265-433d-95ab-272e5cfad6d4",
+    "name": "泰州",
+    "country": "中国",
+    "province": null,
+    "lat": 32.456692,
+    "lng": 119.922883,
+    "domestic": true,
+    "firstVisit": "2025-08-02",
+    "note": "",
+    "color": "#b8d8f0",
+    "visits": [
+      {
+        "startDate": "2025-08-02",
+        "endDate": "2025-08-02",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "fc43fe3b-2e85-41ad-9611-12ab9e68f839"
+    ]
   }
 ]
