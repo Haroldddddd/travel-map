@@ -1237,5 +1237,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "11d25e37-d994-4c39-b720-ce8e1d33d434",
+    "name": "费特希耶",
+    "country": "土耳其",
+    "province": null,
+    "lat": 36.6221154,
+    "lng": 29.1153384,
+    "domestic": false,
+    "firstVisit": "2024-10-01",
+    "note": "",
+    "color": "#e8e4db",
+    "visits": [
+      {
+        "startDate": "2024-10-01",
+        "endDate": "2024-10-05",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
