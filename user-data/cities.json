@@ -1157,5 +1157,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "48638064-0ff2-40d1-838c-7a0d19e6fed2",
+    "name": "大阪市",
+    "country": "日本",
+    "province": null,
+    "lat": 34.6937569,
+    "lng": 135.5014539,
+    "domestic": false,
+    "firstVisit": "2024-02-01",
+    "note": "",
+    "color": "#f9c0c0",
+    "visits": [
+      {
+        "startDate": "2024-02-01",
+        "endDate": "2024-02-01",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
