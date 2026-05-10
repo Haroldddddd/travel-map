@@ -1177,5 +1177,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "3321153e-6d2c-4fc4-9c56-f38fab341b6c",
+    "name": "京都市",
+    "country": "日本",
+    "province": null,
+    "lat": 34.9853497,
+    "lng": 135.758766,
+    "domestic": false,
+    "firstVisit": "2024-02-01",
+    "note": "",
+    "color": "#d8c8f0",
+    "visits": [
+      {
+        "startDate": "2024-02-01",
+        "endDate": "2024-02-05",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
