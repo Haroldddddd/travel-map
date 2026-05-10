@@ -736,5 +736,27 @@
     "photos": [
       "95272089-71cd-422e-8d05-556f844ce655"
     ]
+  },
+  {
+    "id": "eb3cb37b-2079-417d-a7b5-7df488e980cf",
+    "name": "滁州",
+    "country": "中国",
+    "province": null,
+    "lat": 32.255904,
+    "lng": 118.333439,
+    "domestic": true,
+    "firstVisit": "2025-08-24",
+    "note": "",
+    "color": "#d8c8f0",
+    "visits": [
+      {
+        "startDate": "2025-08-24",
+        "endDate": "2025-08-24",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "8f5f9d08-781f-487a-9218-ffd49399be6e"
+    ]
   }
 ]
