@@ -544,5 +544,27 @@
     "photos": [
       "875bbcaf-6276-4765-a5f1-333a16880be8"
     ]
+  },
+  {
+    "id": "f89ef92f-7ed3-4ade-9f3a-bcd4f1070abe",
+    "name": "白山",
+    "country": "中国",
+    "province": null,
+    "lat": 41.944132,
+    "lng": 126.414274,
+    "domestic": true,
+    "firstVisit": "2023-05-10",
+    "note": "",
+    "color": "#c8e0e0",
+    "visits": [
+      {
+        "startDate": "2023-05-10",
+        "endDate": "2023-05-10",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "6ad2fe41-52e8-490e-b4a5-afe145f7eb37"
+    ]
   }
 ]
