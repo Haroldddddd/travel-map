@@ -544,27 +544,5 @@
     "photos": [
       "875bbcaf-6276-4765-a5f1-333a16880be8"
     ]
-  },
-  {
-    "id": "d2accf8b-6a2e-44eb-9f1b-8940f37c2ef6",
-    "name": "长白朝鲜族自治",
-    "country": "中国",
-    "province": null,
-    "lat": 41.420253,
-    "lng": 128.20066,
-    "domestic": true,
-    "firstVisit": "2023-05-10",
-    "note": "",
-    "color": "#f9e0b0",
-    "visits": [
-      {
-        "startDate": "2023-05-10",
-        "endDate": "2023-05-10",
-        "photoCount": 1
-      }
-    ],
-    "photos": [
-      "9c06ac06-cbe6-4c27-804b-a5663a09eebb"
-    ]
   }
 ]
