@@ -316,5 +316,27 @@
     "photos": [
       "271a4399-bcee-4182-a4ad-7f6ecc2bcc78"
     ]
+  },
+  {
+    "id": "e5377820-b20f-4492-a5c6-61e6f29f3b7b",
+    "name": "大理",
+    "country": "中国",
+    "province": null,
+    "lat": 25.678466,
+    "lng": 100.301614,
+    "domestic": true,
+    "firstVisit": "2025-05-02",
+    "note": "",
+    "color": "#d8c8f0",
+    "visits": [
+      {
+        "startDate": "2025-05-02",
+        "endDate": "2025-05-04",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "d97d7f1b-5ac5-465d-a4d7-f9066cba8407"
+    ]
   }
 ]
