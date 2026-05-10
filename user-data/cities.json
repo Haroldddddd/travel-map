@@ -1217,5 +1217,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "4d229b38-4fa2-40fc-a2e8-51d4d201bb9b",
+    "name": "卡帕多奇亞",
+    "country": "土耳其",
+    "province": null,
+    "lat": 38.6386124,
+    "lng": 34.8455184,
+    "domestic": false,
+    "firstVisit": "2024-10-01",
+    "note": "",
+    "color": "#c9e6c6",
+    "visits": [
+      {
+        "startDate": "2024-10-01",
+        "endDate": "2024-10-05",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
