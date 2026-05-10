@@ -1097,5 +1097,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "00723b3d-5afa-4712-a118-ed560c99514b",
+    "name": "蘇黎世",
+    "country": "瑞士",
+    "province": null,
+    "lat": 47.3744489,
+    "lng": 8.5410422,
+    "domestic": false,
+    "firstVisit": "2025-10-01",
+    "note": "",
+    "color": "#e8e4db",
+    "visits": [
+      {
+        "startDate": "2025-10-01",
+        "endDate": "2025-10-07",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
