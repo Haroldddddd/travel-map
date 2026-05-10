@@ -360,5 +360,27 @@
     "photos": [
       "34e72a49-587f-42ca-97b8-778800b36589"
     ]
+  },
+  {
+    "id": "2c3618be-e152-4f4c-8ed4-3ce10fa67770",
+    "name": "深圳",
+    "country": "中国",
+    "province": null,
+    "lat": 22.543527,
+    "lng": 114.057939,
+    "domestic": true,
+    "firstVisit": "2022-07-01",
+    "note": "",
+    "color": "#f9c0c0",
+    "visits": [
+      {
+        "startDate": "2022-07-01",
+        "endDate": "2025-02-20",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "dacadf24-6052-402b-b054-143daaef502f"
+    ]
   }
 ]
