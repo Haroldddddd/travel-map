@@ -846,5 +846,27 @@
     "photos": [
       "df8ae023-9446-4891-a055-d4e12e73fa50"
     ]
+  },
+  {
+    "id": "b93e35f4-0efa-419c-901d-967cc304bd4a",
+    "name": "合肥",
+    "country": "中国",
+    "province": null,
+    "lat": 31.820567,
+    "lng": 117.227267,
+    "domestic": true,
+    "firstVisit": "2025-08-25",
+    "note": "",
+    "color": "#f0c8d8",
+    "visits": [
+      {
+        "startDate": "2025-08-25",
+        "endDate": "2025-08-25",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "78bc5f70-130e-402c-9a34-922494a0b549"
+    ]
   }
 ]
