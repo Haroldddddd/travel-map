@@ -1317,5 +1317,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "c39e29cb-0f0f-49eb-a0d7-dd7a81bdddaa",
+    "name": "那不勒斯",
+    "country": "意大利;意大利",
+    "province": null,
+    "lat": 40.8358846,
+    "lng": 14.2487679,
+    "domestic": false,
+    "firstVisit": "2026-05-01",
+    "note": "",
+    "color": "#c9e6c6",
+    "visits": [
+      {
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-01",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
