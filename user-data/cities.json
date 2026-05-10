@@ -672,5 +672,25 @@
     "photos": [
       "221b80a2-a007-4199-9244-4c93e1dbb4e6"
     ]
+  },
+  {
+    "id": "d087fe18-373d-4fba-8f55-947b73348846",
+    "name": "杭州",
+    "country": "中国",
+    "province": null,
+    "lat": 30.246566,
+    "lng": 120.209903,
+    "domestic": true,
+    "firstVisit": "2025-02-02",
+    "note": "",
+    "color": "#c9e6c6",
+    "visits": [
+      {
+        "startDate": "2025-02-02",
+        "endDate": "2025-02-03",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
