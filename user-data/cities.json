@@ -630,5 +630,25 @@
     "photos": [
       "ffae4eb9-4df6-4c33-80b7-7b17bbdec0ba"
     ]
+  },
+  {
+    "id": "85872411-4c80-4ae8-a64f-b6aad31beb58",
+    "name": "许昌",
+    "country": "中国",
+    "province": null,
+    "lat": 34.03732,
+    "lng": 113.852004,
+    "domestic": true,
+    "firstVisit": "2025-08-01",
+    "note": "",
+    "color": "#f0c8d8",
+    "visits": [
+      {
+        "startDate": "2025-08-01",
+        "endDate": "2025-08-01",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
