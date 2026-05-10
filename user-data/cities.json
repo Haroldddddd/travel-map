@@ -1117,5 +1117,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "70983bc5-6ac5-427e-aaeb-d50ad5351aef",
+    "name": "普吉岛",
+    "country": "泰国;泰國",
+    "province": null,
+    "lat": 7.9790847,
+    "lng": 98.3355238,
+    "domestic": false,
+    "firstVisit": "2023-03-05",
+    "note": "",
+    "color": "#c9e6c6",
+    "visits": [
+      {
+        "startDate": "2023-03-05",
+        "endDate": "2023-03-09",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
