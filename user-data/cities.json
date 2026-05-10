@@ -228,5 +228,27 @@
     "photos": [
       "30a9381b-bf49-4bab-9680-c692d372c023"
     ]
+  },
+  {
+    "id": "e989ba18-0756-4244-82b0-8f47ddfadf02",
+    "name": "洛阳",
+    "country": "中国",
+    "province": null,
+    "lat": 34.619702,
+    "lng": 112.453895,
+    "domestic": true,
+    "firstVisit": "2025-08-10",
+    "note": "",
+    "color": "#c9e6c6",
+    "visits": [
+      {
+        "startDate": "2025-08-10",
+        "endDate": "2025-08-10",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "3b679653-73c1-46ea-a8e6-1d9f13fde396"
+    ]
   }
 ]
