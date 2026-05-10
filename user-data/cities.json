@@ -404,5 +404,27 @@
     "photos": [
       "4e635d10-f439-4980-b5be-e888b058916e"
     ]
+  },
+  {
+    "id": "44dac9e5-0df7-412f-84c1-9166993fd3b6",
+    "name": "成都",
+    "country": "中国",
+    "province": null,
+    "lat": 30.572961,
+    "lng": 104.066301,
+    "domestic": true,
+    "firstVisit": "2024-11-29",
+    "note": "",
+    "color": "#f9e0b0",
+    "visits": [
+      {
+        "startDate": "2024-11-29",
+        "endDate": "2025-11-30",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "69bc768f-41d0-4dd9-8ec1-a66bafb8a726"
+    ]
   }
 ]
