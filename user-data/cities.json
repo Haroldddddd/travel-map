@@ -802,5 +802,27 @@
     "photos": [
       "2dce3340-9be2-423b-9ccd-d0781e6c70b8"
     ]
+  },
+  {
+    "id": "aa243979-d061-44e3-99d5-fa42d7a0205d",
+    "name": "铜陵",
+    "country": "中国",
+    "province": null,
+    "lat": 30.945214,
+    "lng": 117.811298,
+    "domestic": true,
+    "firstVisit": "2025-08-24",
+    "note": "",
+    "color": "#c8e0e0",
+    "visits": [
+      {
+        "startDate": "2025-08-24",
+        "endDate": "2025-08-24",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "0d6f7f3a-050e-4e8a-ab69-8fc7c1a3a3ff"
+    ]
   }
 ]
