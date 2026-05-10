@@ -338,5 +338,27 @@
     "photos": [
       "d97d7f1b-5ac5-465d-a4d7-f9066cba8407"
     ]
+  },
+  {
+    "id": "a4566b45-60bf-4698-a825-3284ae08d050",
+    "name": "丽江",
+    "country": "中国",
+    "province": null,
+    "lat": 26.855165,
+    "lng": 100.225936,
+    "domestic": true,
+    "firstVisit": "2025-04-30",
+    "note": "",
+    "color": "#f9e0b0",
+    "visits": [
+      {
+        "startDate": "2025-04-30",
+        "endDate": "2025-05-01",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "34e72a49-587f-42ca-97b8-778800b36589"
+    ]
   }
 ]
