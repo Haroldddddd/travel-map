@@ -135,5 +135,27 @@
     "photos": [
       "4a8de84f-2aa1-4907-aee0-35e54475eccc"
     ]
+  },
+  {
+    "id": "0ad16a29-a679-4781-8c37-65b3d5270586",
+    "name": "Sorrento",
+    "country": "意大利;意大利",
+    "province": null,
+    "lat": 40.624906,
+    "lng": 14.374836,
+    "domestic": false,
+    "firstVisit": "2026-05-10",
+    "note": "",
+    "color": "#f0c8d8",
+    "visits": [
+      {
+        "startDate": "2026-05-10",
+        "endDate": "2026-05-10",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "d3c566d6-0ce1-4019-9f9b-fac5f6773535"
+    ]
   }
 ]
