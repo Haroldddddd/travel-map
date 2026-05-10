@@ -1077,5 +1077,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "76a3c9f1-3ffa-4f09-9747-5fa74eeb6072",
+    "name": "开封",
+    "country": "中国",
+    "province": null,
+    "lat": 34.798083,
+    "lng": 114.314278,
+    "domestic": true,
+    "firstVisit": "2025-09-03",
+    "note": "",
+    "color": "#f9e0b0",
+    "visits": [
+      {
+        "startDate": "2025-09-03",
+        "endDate": "2025-09-03",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
