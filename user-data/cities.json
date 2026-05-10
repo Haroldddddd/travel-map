@@ -1077,5 +1077,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "bb502fd3-5064-44cf-87b7-e0bec29754d2",
+    "name": "东京都/東京都",
+    "country": "日本",
+    "province": null,
+    "lat": 35.6768601,
+    "lng": 139.7638947,
+    "domestic": false,
+    "firstVisit": "2024-01-01",
+    "note": "",
+    "color": "#d8c8f0",
+    "visits": [
+      {
+        "startDate": "2024-01-01",
+        "endDate": "2024-01-07",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
