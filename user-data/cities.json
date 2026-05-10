@@ -1137,5 +1137,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "e5359196-ed6c-490c-8828-fd59b3055310",
+    "name": "伊斯坦布尔 / 伊斯坦堡",
+    "country": "土耳其",
+    "province": null,
+    "lat": 41.006381,
+    "lng": 28.9758715,
+    "domestic": false,
+    "firstVisit": "2024-10-01",
+    "note": "",
+    "color": "#f0c8d8",
+    "visits": [
+      {
+        "startDate": "2024-10-01",
+        "endDate": "2024-10-07",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
