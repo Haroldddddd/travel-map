@@ -1357,5 +1357,25 @@
       }
     ],
     "photos": []
+  },
+  {
+    "id": "a4823c43-974d-481e-a926-6512c592e361",
+    "name": "首尔特别市",
+    "country": "韩国 / 南韓",
+    "province": null,
+    "lat": 37.5666791,
+    "lng": 126.9782914,
+    "domestic": false,
+    "firstVisit": "2025-03-02",
+    "note": "",
+    "color": "#f0c8d8",
+    "visits": [
+      {
+        "startDate": "2025-03-02",
+        "endDate": "2025-03-04",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
