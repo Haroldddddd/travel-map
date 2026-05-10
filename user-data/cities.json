@@ -184,5 +184,27 @@
     "photos": [
       "dc6c48e8-ace8-4153-b6cd-820e7f63a9d0"
     ]
+  },
+  {
+    "id": "cde021f0-e41c-4830-90ff-e2d28eb26b5c",
+    "name": "阳朔",
+    "country": "中国",
+    "province": null,
+    "lat": 24.778785,
+    "lng": 110.496305,
+    "domestic": true,
+    "firstVisit": "2025-09-10",
+    "note": "",
+    "color": "#d8c8f0",
+    "visits": [
+      {
+        "startDate": "2025-09-10",
+        "endDate": "2025-09-10",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "f145bb93-7862-484e-a5b8-79f1ce5b5890"
+    ]
   }
 ]
