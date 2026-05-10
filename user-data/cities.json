@@ -522,5 +522,27 @@
     "photos": [
       "1ef787fd-978b-4317-a7a3-8a68fec262ab"
     ]
+  },
+  {
+    "id": "30eee086-8ecf-408a-a357-80469f3a215b",
+    "name": "延吉",
+    "country": "中国",
+    "province": null,
+    "lat": 42.891034,
+    "lng": 129.507655,
+    "domestic": true,
+    "firstVisit": "2023-05-10",
+    "note": "",
+    "color": "#f9e0b0",
+    "visits": [
+      {
+        "startDate": "2023-05-10",
+        "endDate": "2023-05-10",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "875bbcaf-6276-4765-a5f1-333a16880be8"
+    ]
   }
 ]
