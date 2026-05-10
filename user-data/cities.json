@@ -895,5 +895,25 @@
     "photos": [
       "fc43fe3b-2e85-41ad-9611-12ab9e68f839"
     ]
+  },
+  {
+    "id": "5b379ded-ade7-484d-938a-6b04d3e65b67",
+    "name": "台州",
+    "country": "中国",
+    "province": null,
+    "lat": 28.655716,
+    "lng": 121.42079,
+    "domestic": true,
+    "firstVisit": "2025-05-02",
+    "note": "",
+    "color": "#e8e4db",
+    "visits": [
+      {
+        "startDate": "2025-05-02",
+        "endDate": "2025-05-06",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
