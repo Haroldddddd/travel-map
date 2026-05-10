@@ -500,5 +500,27 @@
     "photos": [
       "4eaede1c-7626-4916-8ee8-c5497bceba5f"
     ]
+  },
+  {
+    "id": "3475f1dd-dc34-42e3-89ea-ca6f1bd155b2",
+    "name": "长春",
+    "country": "中国",
+    "province": null,
+    "lat": 43.816996,
+    "lng": 125.323643,
+    "domestic": true,
+    "firstVisit": "2023-06-24",
+    "note": "",
+    "color": "#c9e6c6",
+    "visits": [
+      {
+        "startDate": "2023-06-24",
+        "endDate": "2023-06-24",
+        "photoCount": 1
+      }
+    ],
+    "photos": [
+      "1ef787fd-978b-4317-a7a3-8a68fec262ab"
+    ]
   }
 ]
