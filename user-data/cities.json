@@ -588,5 +588,25 @@
     "photos": [
       "2087897b-cfe3-41b8-8dfb-99cfff36181e"
     ]
+  },
+  {
+    "id": "5d8520ea-b504-49d8-b73e-ad4687fed935",
+    "name": "郴州",
+    "country": "中国",
+    "province": null,
+    "lat": 25.770117,
+    "lng": 113.015517,
+    "domestic": true,
+    "firstVisit": "2024-09-01",
+    "note": "",
+    "color": "#b8d8f0",
+    "visits": [
+      {
+        "startDate": "2024-09-01",
+        "endDate": "2024-09-01",
+        "photoCount": 0
+      }
+    ],
+    "photos": []
   }
 ]
