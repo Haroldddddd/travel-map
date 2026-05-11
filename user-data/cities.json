@@ -7,20 +7,10 @@
     "lat": 43.7697955,
     "lng": 11.2556404,
     "domestic": false,
-    "firstVisit": "2025-05-01",
+    "firstVisit": "2026-05-09",
     "note": "美第奇和佛罗伦萨",
     "color": "#b8d8f0",
     "visits": [
-      {
-        "startDate": "2025-05-01",
-        "endDate": "2025-05-03",
-        "photoCount": 0
-      },
-      {
-        "startDate": "2025-05-01",
-        "endDate": "2025-05-03",
-        "photoCount": 0
-      },
       {
         "startDate": "2026-05-09",
         "endDate": "2026-05-09",
