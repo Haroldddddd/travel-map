@@ -1354,9 +1354,16 @@
         "startDate": "2026-05-03",
         "endDate": "2026-05-03",
         "photoCount": 0
+      },
+      {
+        "startDate": "2026-05-03",
+        "endDate": "2026-05-03",
+        "photoCount": 1
       }
     ],
-    "photos": []
+    "photos": [
+      "3bdd3d5f-e1ef-4859-abe0-9a32d3ae291d"
+    ]
   },
   {
     "id": "a4823c43-974d-481e-a926-6512c592e361",
