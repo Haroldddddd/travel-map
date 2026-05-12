@@ -187,7 +187,7 @@
     "id": "cde021f0-e41c-4830-90ff-e2d28eb26b5c",
     "name": "阳朔",
     "country": "中国",
-    "province": null,
+    "province": "广西壮族自治区",
     "lat": 24.778785,
     "lng": 110.496305,
     "domestic": true,
@@ -203,13 +203,14 @@
     ],
     "photos": [
       "f145bb93-7862-484e-a5b8-79f1ce5b5890"
-    ]
+    ],
+    "adcode": "450321"
   },
   {
     "id": "48ff388b-1a6d-4a00-9eca-b3c7efe4d4fe",
     "name": "桂林",
     "country": "中国",
-    "province": null,
+    "province": "广西壮族自治区",
     "lat": 25.235615,
     "lng": 110.179752,
     "domestic": true,
@@ -225,13 +226,14 @@
     ],
     "photos": [
       "30a9381b-bf49-4bab-9680-c692d372c023"
-    ]
+    ],
+    "adcode": "450312"
   },
   {
     "id": "e989ba18-0756-4244-82b0-8f47ddfadf02",
     "name": "洛阳",
     "country": "中国",
-    "province": null,
+    "province": "河南省",
     "lat": 34.619702,
     "lng": 112.453895,
     "domestic": true,
@@ -247,13 +249,14 @@
     ],
     "photos": [
       "3b679653-73c1-46ea-a8e6-1d9f13fde396"
-    ]
+    ],
+    "adcode": "410311"
   },
   {
     "id": "2bf2af33-a138-426c-88a2-e588fd5a4436",
     "name": "无锡",
     "country": "中国",
-    "province": null,
+    "province": "江苏省",
     "lat": 31.491064,
     "lng": 120.311889,
     "domestic": true,
@@ -269,13 +272,14 @@
     ],
     "photos": [
       "cd107a23-4d83-4661-9c75-e8122802baa8"
-    ]
+    ],
+    "adcode": "320211"
   },
   {
     "id": "fe0fe157-7287-4257-b15a-838345c064ca",
     "name": "武汉",
     "country": "中国",
-    "province": null,
+    "province": "湖北省",
     "lat": 30.593354,
     "lng": 114.304569,
     "domestic": true,
@@ -291,13 +295,14 @@
     ],
     "photos": [
       "fd2a5a60-df3e-47a6-9602-f3b8c9b4a2c8"
-    ]
+    ],
+    "adcode": "420102"
   },
   {
     "id": "89ad2699-bf6e-4d12-bbbd-ae899945ab22",
     "name": "南昌",
     "country": "中国",
-    "province": null,
+    "province": "江西省",
     "lat": 28.682976,
     "lng": 115.857972,
     "domestic": true,
@@ -313,13 +318,14 @@
     ],
     "photos": [
       "271a4399-bcee-4182-a4ad-7f6ecc2bcc78"
-    ]
+    ],
+    "adcode": "360113"
   },
   {
     "id": "e5377820-b20f-4492-a5c6-61e6f29f3b7b",
     "name": "大理",
     "country": "中国",
-    "province": null,
+    "province": "云南省",
     "lat": 25.678466,
     "lng": 100.301614,
     "domestic": true,
@@ -335,13 +341,14 @@
     ],
     "photos": [
       "d97d7f1b-5ac5-465d-a4d7-f9066cba8407"
-    ]
+    ],
+    "adcode": "532901"
   },
   {
     "id": "a4566b45-60bf-4698-a825-3284ae08d050",
     "name": "丽江",
     "country": "中国",
-    "province": null,
+    "province": "云南省",
     "lat": 26.855165,
     "lng": 100.225936,
     "domestic": true,
@@ -357,13 +364,14 @@
     ],
     "photos": [
       "34e72a49-587f-42ca-97b8-778800b36589"
-    ]
+    ],
+    "adcode": "530702"
   },
   {
     "id": "2c3618be-e152-4f4c-8ed4-3ce10fa67770",
     "name": "深圳",
     "country": "中国",
-    "province": null,
+    "province": "广东省",
     "lat": 22.543527,
     "lng": 114.057939,
     "domestic": true,
@@ -379,13 +387,14 @@
     ],
     "photos": [
       "dacadf24-6052-402b-b054-143daaef502f"
-    ]
+    ],
+    "adcode": "440304"
   },
   {
     "id": "8c7df8ad-e9c5-4d45-a973-bf4aa76f0f68",
     "name": "九寨沟",
     "country": "中国",
-    "province": null,
+    "province": "四川省",
     "lat": 33.252008,
     "lng": 104.2426,
     "domestic": true,
@@ -401,13 +410,14 @@
     ],
     "photos": [
       "4e635d10-f439-4980-b5be-e888b058916e"
-    ]
+    ],
+    "adcode": "513225"
   },
   {
     "id": "44dac9e5-0df7-412f-84c1-9166993fd3b6",
     "name": "成都",
     "country": "中国",
-    "province": null,
+    "province": "四川省",
     "lat": 30.572961,
     "lng": 104.066301,
     "domestic": true,
@@ -423,13 +433,14 @@
     ],
     "photos": [
       "69bc768f-41d0-4dd9-8ec1-a66bafb8a726"
-    ]
+    ],
+    "adcode": "510107"
   },
   {
     "id": "0bed4e95-291a-49cc-b364-79d9fa46d2cb",
     "name": "珠海",
     "country": "中国",
-    "province": null,
+    "province": "广东省",
     "lat": 22.271644,
     "lng": 113.576892,
     "domestic": true,
@@ -445,13 +456,14 @@
     ],
     "photos": [
       "6e3a9083-671a-4549-9c5e-af4605d2d640"
-    ]
+    ],
+    "adcode": "440402"
   },
   {
     "id": "4f6719e4-1255-4fe9-8183-fcce05c517ad",
     "name": "广州",
     "country": "中国",
-    "province": null,
+    "province": "广东省",
     "lat": 23.130061,
     "lng": 113.264499,
     "domestic": true,
@@ -467,13 +479,14 @@
     ],
     "photos": [
       "eef19a68-3e6a-4035-8c45-df85bc6d4340"
-    ]
+    ],
+    "adcode": "440104"
   },
   {
     "id": "0efc9f93-b385-4afe-99de-ebd05e226a02",
     "name": "厦门",
     "country": "中国",
-    "province": null,
+    "province": "福建省",
     "lat": 24.479627,
     "lng": 118.08891,
     "domestic": true,
@@ -489,13 +502,14 @@
     ],
     "photos": [
       "4eaede1c-7626-4916-8ee8-c5497bceba5f"
-    ]
+    ],
+    "adcode": "350203"
   },
   {
     "id": "3475f1dd-dc34-42e3-89ea-ca6f1bd155b2",
     "name": "长春",
     "country": "中国",
-    "province": null,
+    "province": "吉林省",
     "lat": 43.816996,
     "lng": 125.323643,
     "domestic": true,
@@ -511,13 +525,14 @@
     ],
     "photos": [
       "1ef787fd-978b-4317-a7a3-8a68fec262ab"
-    ]
+    ],
+    "adcode": "220102"
   },
   {
     "id": "30eee086-8ecf-408a-a357-80469f3a215b",
     "name": "延吉",
     "country": "中国",
-    "province": null,
+    "province": "吉林省",
     "lat": 42.891034,
     "lng": 129.507655,
     "domestic": true,
@@ -533,13 +548,14 @@
     ],
     "photos": [
       "875bbcaf-6276-4765-a5f1-333a16880be8"
-    ]
+    ],
+    "adcode": "222401"
   },
   {
     "id": "f89ef92f-7ed3-4ade-9f3a-bcd4f1070abe",
     "name": "白山",
     "country": "中国",
-    "province": null,
+    "province": "吉林省",
     "lat": 41.944132,
     "lng": 126.414274,
     "domestic": true,
@@ -555,13 +571,14 @@
     ],
     "photos": [
       "6ad2fe41-52e8-490e-b4a5-afe145f7eb37"
-    ]
+    ],
+    "adcode": "220602"
   },
   {
     "id": "a383d50f-c2e8-4c02-b07f-2350fa749bcb",
     "name": "长沙",
     "country": "中国",
-    "province": null,
+    "province": "湖南省",
     "lat": 28.228304,
     "lng": 112.938882,
     "domestic": true,
@@ -577,13 +594,14 @@
     ],
     "photos": [
       "2087897b-cfe3-41b8-8dfb-99cfff36181e"
-    ]
+    ],
+    "adcode": "430104"
   },
   {
     "id": "5d8520ea-b504-49d8-b73e-ad4687fed935",
     "name": "郴州",
     "country": "中国",
-    "province": null,
+    "province": "湖南省",
     "lat": 25.770117,
     "lng": 113.015517,
     "domestic": true,
@@ -597,13 +615,14 @@
         "photoCount": 0
       }
     ],
-    "photos": []
+    "photos": [],
+    "adcode": "431002"
   },
   {
     "id": "3c1c3825-1e7b-4841-a106-7b78ec7bc34b",
     "name": "北京",
     "country": "中国",
-    "province": null,
+    "province": "北京市",
     "lat": 39.904179,
     "lng": 116.407387,
     "domestic": true,
@@ -619,13 +638,14 @@
     ],
     "photos": [
       "ffae4eb9-4df6-4c33-80b7-7b17bbdec0ba"
-    ]
+    ],
+    "adcode": "110101"
   },
   {
     "id": "85872411-4c80-4ae8-a64f-b6aad31beb58",
     "name": "许昌",
     "country": "中国",
-    "province": null,
+    "province": "河南省",
     "lat": 34.03732,
     "lng": 113.852004,
     "domestic": true,
@@ -639,13 +659,14 @@
         "photoCount": 0
       }
     ],
-    "photos": []
+    "photos": [],
+    "adcode": "411002"
   },
   {
     "id": "be3a1cca-d987-43f4-b47c-b0a824362950",
     "name": "舟山",
     "country": "中国",
-    "province": null,
+    "province": "浙江省",
     "lat": 29.985578,
     "lng": 122.207395,
     "domestic": true,
@@ -661,13 +682,14 @@
     ],
     "photos": [
       "221b80a2-a007-4199-9244-4c93e1dbb4e6"
-    ]
+    ],
+    "adcode": "330902"
   },
   {
     "id": "d087fe18-373d-4fba-8f55-947b73348846",
     "name": "杭州",
     "country": "中国",
-    "province": null,
+    "province": "浙江省",
     "lat": 30.246566,
     "lng": 120.209903,
     "domestic": true,
@@ -681,13 +703,14 @@
         "photoCount": 0
       }
     ],
-    "photos": []
+    "photos": [],
+    "adcode": "330102"
   },
   {
     "id": "fab87f59-eec1-4468-b961-e6ccf05270f2",
     "name": "扬州",
     "country": "中国",
-    "province": null,
+    "province": "江苏省",
     "lat": 32.394404,
     "lng": 119.412834,
     "domestic": true,
@@ -703,13 +726,14 @@
     ],
     "photos": [
       "0ed66a5a-cd29-497b-9bd2-cfc30779ceec"
-    ]
+    ],
+    "adcode": "321003"
   },
   {
     "id": "c0654265-9942-48ff-8ca5-1706ee9008d4",
     "name": "池州",
     "country": "中国",
-    "province": null,
+    "province": "安徽省",
     "lat": 30.674264,
     "lng": 117.495663,
     "domestic": true,
@@ -725,13 +749,14 @@
     ],
     "photos": [
       "95272089-71cd-422e-8d05-556f844ce655"
-    ]
+    ],
+    "adcode": "341702"
   },
   {
     "id": "eb3cb37b-2079-417d-a7b5-7df488e980cf",
     "name": "滁州",
     "country": "中国",
-    "province": null,
+    "province": "安徽省",
     "lat": 32.255904,
     "lng": 118.333439,
     "domestic": true,
@@ -747,13 +772,14 @@
     ],
     "photos": [
       "8f5f9d08-781f-487a-9218-ffd49399be6e"
-    ]
+    ],
+    "adcode": "341103"
   },
   {
     "id": "1d48471d-ae0c-4cae-b630-75c39d49e527",
     "name": "常州",
     "country": "中国",
-    "province": null,
+    "province": "江苏省",
     "lat": 31.811313,
     "lng": 119.974092,
     "domestic": true,
@@ -769,13 +795,14 @@
     ],
     "photos": [
       "c43798f6-50cd-48dd-9763-94f07b514a44"
-    ]
+    ],
+    "adcode": "320411"
   },
   {
     "id": "d2f4db81-5457-4d52-8638-57d8a6012806",
     "name": "嘉兴",
     "country": "中国",
-    "province": null,
+    "province": "浙江省",
     "lat": 30.746814,
     "lng": 120.755623,
     "domestic": true,
@@ -791,13 +818,14 @@
     ],
     "photos": [
       "2dce3340-9be2-423b-9ccd-d0781e6c70b8"
-    ]
+    ],
+    "adcode": "330402"
   },
   {
     "id": "aa243979-d061-44e3-99d5-fa42d7a0205d",
     "name": "铜陵",
     "country": "中国",
-    "province": null,
+    "province": "安徽省",
     "lat": 30.945214,
     "lng": 117.811298,
     "domestic": true,
@@ -813,13 +841,14 @@
     ],
     "photos": [
       "0d6f7f3a-050e-4e8a-ab69-8fc7c1a3a3ff"
-    ]
+    ],
+    "adcode": "340705"
   },
   {
     "id": "2ea89b5b-ea79-440f-9310-9bf958275700",
     "name": "湖州",
     "country": "中国",
-    "province": null,
+    "province": "浙江省",
     "lat": 30.894178,
     "lng": 120.086881,
     "domestic": true,
@@ -840,13 +869,14 @@
     ],
     "photos": [
       "df8ae023-9446-4891-a055-d4e12e73fa50"
-    ]
+    ],
+    "adcode": "330502"
   },
   {
     "id": "b93e35f4-0efa-419c-901d-967cc304bd4a",
     "name": "合肥",
     "country": "中国",
-    "province": null,
+    "province": "安徽省",
     "lat": 31.820567,
     "lng": 117.227267,
     "domestic": true,
@@ -862,13 +892,14 @@
     ],
     "photos": [
       "78bc5f70-130e-402c-9a34-922494a0b549"
-    ]
+    ],
+    "adcode": "340104"
   },
   {
     "id": "c6ca4adf-5265-433d-95ab-272e5cfad6d4",
     "name": "泰州",
     "country": "中国",
-    "province": null,
+    "province": "江苏省",
     "lat": 32.456692,
     "lng": 119.922883,
     "domestic": true,
@@ -884,13 +915,14 @@
     ],
     "photos": [
       "fc43fe3b-2e85-41ad-9611-12ab9e68f839"
-    ]
+    ],
+    "adcode": "321202"
   },
   {
     "id": "5b379ded-ade7-484d-938a-6b04d3e65b67",
     "name": "台州",
     "country": "中国",
-    "province": null,
+    "province": "浙江省",
     "lat": 28.655716,
     "lng": 121.42079,
     "domestic": true,
@@ -904,13 +936,14 @@
         "photoCount": 0
       }
     ],
-    "photos": []
+    "photos": [],
+    "adcode": "331002"
   },
   {
     "id": "d71cd3ed-1164-4f67-8de3-2531a72963a4",
     "name": "福州",
     "country": "中国",
-    "province": null,
+    "province": "福建省",
     "lat": 26.074286,
     "lng": 119.296411,
     "domestic": true,
@@ -924,13 +957,14 @@
         "photoCount": 0
       }
     ],
-    "photos": []
+    "photos": [],
+    "adcode": "350102"
   },
   {
     "id": "042f412d-c8e6-4c2a-90ad-e4a6ed8e5984",
     "name": "重庆",
     "country": "中国",
-    "province": null,
+    "province": "重庆市",
     "lat": 29.56268,
     "lng": 106.551787,
     "domestic": true,
@@ -944,13 +978,14 @@
         "photoCount": 0
       }
     ],
-    "photos": []
+    "photos": [],
+    "adcode": "500103"
   },
   {
     "id": "6bee2285-6d47-4215-bed1-b9914a0f92d0",
     "name": "昆明",
     "country": "中国",
-    "province": null,
+    "province": "云南省",
     "lat": 24.88149,
     "lng": 102.833669,
     "domestic": true,
@@ -964,13 +999,14 @@
         "photoCount": 0
       }
     ],
-    "photos": []
+    "photos": [],
+    "adcode": "530114"
   },
   {
     "id": "e47ab731-639a-4ef9-a1b1-9b71dbcede23",
     "name": "惠州",
     "country": "中国",
-    "province": null,
+    "province": "广东省",
     "lat": 23.112368,
     "lng": 114.415587,
     "domestic": true,
@@ -984,13 +1020,14 @@
         "photoCount": 0
       }
     ],
-    "photos": []
+    "photos": [],
+    "adcode": "441302"
   },
   {
     "id": "b058849e-f613-4d70-bf2c-b7db1747ba1b",
     "name": "景德镇",
     "country": "中国",
-    "province": null,
+    "province": "江西省",
     "lat": 29.2744,
     "lng": 117.184892,
     "domestic": true,
@@ -1006,13 +1043,14 @@
     ],
     "photos": [
       "8a538b80-c380-4f84-9111-2e2ec2fd6495"
-    ]
+    ],
+    "adcode": "360202"
   },
   {
     "id": "ee7b4421-ca97-4b26-b710-5c77b5a8fab8",
     "name": "南京",
     "country": "中国",
-    "province": null,
+    "province": "江苏省",
     "lat": 32.059344,
     "lng": 118.796624,
     "domestic": true,
@@ -1026,13 +1064,14 @@
         "photoCount": 0
       }
     ],
-    "photos": []
+    "photos": [],
+    "adcode": "320102"
   },
   {
     "id": "4170aef0-d2b0-452d-9e05-885061ad0dbb",
     "name": "宣城",
     "country": "中国",
-    "province": null,
+    "province": "安徽省",
     "lat": 30.939278,
     "lng": 118.759127,
     "domestic": true,
@@ -1046,13 +1085,14 @@
         "photoCount": 0
       }
     ],
-    "photos": []
+    "photos": [],
+    "adcode": "341802"
   },
   {
     "id": "76a3c9f1-3ffa-4f09-9747-5fa74eeb6072",
     "name": "开封",
     "country": "中国",
-    "province": null,
+    "province": "河南省",
     "lat": 34.798083,
     "lng": 114.314278,
     "domestic": true,
@@ -1066,7 +1106,8 @@
         "photoCount": 0
       }
     ],
-    "photos": []
+    "photos": [],
+    "adcode": "410202"
   },
   {
     "id": "bb502fd3-5064-44cf-87b7-e0bec29754d2",
